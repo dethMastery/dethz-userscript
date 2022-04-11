@@ -2,7 +2,7 @@
 // @name    shiftyy's MyAnimeList Dark+
 // @namespace   https://suphakit.net/
 // @match        https://myanimelist.net/*
-// @version      1.0.0
+// @version      1.1.0
 // @description  Just 1 key skipping
 // @author       Dethz
 // @resource    css1   https://raw.githubusercontent.com/dethMastery/dethz-userscript/main/MAL/DarkTheme/Component/css1.css
