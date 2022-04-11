@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         AMQ skip
 // @namespace    https://suphakit.net/
 // @version      1.0.0
 // @description  Just 1 key skipping
@@ -12,5 +12,9 @@
 (function() {
     'use strict';
 
-    // Your code here...
+    window.addEventListener('keydown', (event) => {
+        if (event.code === 'Backquote') {
+            quiz.skipClicked()
+        }
+      });
 })();
