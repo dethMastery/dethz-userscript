@@ -9,9 +9,9 @@
 // @resource    css2   https://raw.githubusercontent.com/dethMastery/dethz-userscript/main/MAL/DarkTheme/Component/css2.css
 // ==/UserScript==
 
-console.debug('start: add CSS');
-var call1  = GM_getResourceText("css1");
-var call2  = GM_getResourceText("css2");
-GM_addStyle (call1);
-GM_addStyle (call2);
-console.debug('done: add CSS');
+console.log('start: add CSS');
+var call1 = GM_getResourceText("css1");
+var call2 = GM_getResourceText("css2");
+GM_addStyle(call1);
+GM_addStyle(call2);
+console.log('done: add CSS');
