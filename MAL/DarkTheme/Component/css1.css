@@ -1014,7 +1014,7 @@ body.news .menu-category .btn-category.selected {
        Jarvis HUD: http://i.imgur.com/WreVxWw.jpg
     */
     body {
-        background: #222 url('https://cdn.jsdelivr.net/gh/dethMastery/dethz-userscript@main/MAL/DarkTheme/Component/wallpaper.jpg') no-repeat !important;
+        background: #222 url('https://cdn.jsdelivr.net/gh/dethMastery/dethz-userscript@main/MAL/DarkTheme/Component/wallpaper.jpg') no-repeat scroll center top !important;
         background-position: center !important;
         background-size: cover !important;
 }
