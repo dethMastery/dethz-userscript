@@ -6,6 +6,7 @@
 // @description  Just 1 key skipping
 // @author       Dethz
 // @resource    css1   https://raw.githubusercontent.com/dethMastery/dethz-userscript/main/MAL/DarkTheme/Component/css1.css
+// @resource    css2   https://raw.githubusercontent.com/dethMastery/dethz-userscript/main/MAL/DarkTheme/Component/css2.css
 // @grant       GM_getResourceText
 // @grant       GM_addStyle
 // ==/UserScript==
