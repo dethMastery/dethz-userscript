@@ -13,5 +13,7 @@
 
 console.log('start: add CSS');
 var call1 = GM_getResourceText("css1");
+var call2 = GM_getResourceText("css2");
 GM_addStyle(call1);
+GM_addStyle(call2);
 console.log('done: add CSS');
