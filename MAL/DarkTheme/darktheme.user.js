@@ -5,8 +5,8 @@
 // @version      1.0.0
 // @description  Just 1 key skipping
 // @author       Dethz
-// @resource    css1   https://raw.github.com/gist/xxx/xxx/xxx.css
-// @resource    css2   https://raw.github.com/gist/xxx/xxx/xxx.css
+// @resource    css1   https://raw.githubusercontent.com/dethMastery/dethz-userscript/main/MAL/DarkTheme/Component/css1.css
+// @resource    css2   https://raw.githubusercontent.com/dethMastery/dethz-userscript/main/MAL/DarkTheme/Component/css2.css
 // ==/UserScript==
 
 console.debug('start: add CSS');
