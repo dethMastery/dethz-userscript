@@ -10,7 +10,7 @@
 
 .page-common h2 {
     font-size: 15px !important;
-    border-color: #bebebe00;
+    border-color: #bebebe00 !important;
     color: #707070 !important;
 }
 .page-common .h1.edit-info div.h1-title h1 {
@@ -23,17 +23,17 @@
 }
 
 .page-common #horiznav_nav ul li {
-    background-color: #84848400;
+    background-color: #84848400 !important;
 }
 .page-common #horiznav_nav ul li .horiznav_active {
-    background-color: #97979796;
+    background-color: #97979796 !important;
     color: #fff;
 }
 .page-common #horiznav_nav {
     border-color: #91919196;
 }
 .page-common #horiznav_nav ul li a:hover {
-    background-color: #d2d2d296;
+    background-color: #d2d2d296 !important;
     color: #fff;
 }
 
@@ -49,7 +49,7 @@
 
 /* TOP BUTTONS */
 .page-common #horiznav_nav ul li a {
-    background-color: #0000;
+    background-color: #0000 !important;
     color: #707070;
     font-size: 12px;
     padding: 4px 4px;
@@ -72,7 +72,7 @@
 
 
 .anime-detail-header-stats .stats-block:before {
-    background-color: #d8d8d800;
+    background-color: #d8d8d800 !important;
     box-shadow: #fff0 1px 0 1px 0;
 }
 .anime-detail-header-stats .stats-block .numbers {
@@ -89,12 +89,12 @@
 
 
 .anime-detail-header-stats .stats-block {
-    background-color: #0000006b;
+    background-color: #0000006b !important;
     border: #ebebeb00 1px solid;
     height: 76.5px;
 }
 .anime-detail-header-stats .user-status-block {
-    background-color: #0000006b;
+    background-color: #0000006b !important;
     border: #ebebeb00 1px solid;
     margin: 0px !important;
 }
@@ -128,7 +128,7 @@
 }
 
 .user-status-block .form-user-status {
-    background-color: #00000045;
+    background-color: #00000045 !important;
     border: #595959 2px solid;
     font-size: 12;
 }
@@ -142,7 +142,7 @@
 
 /*  SCORE BUTTON  */
 .user-status-block .form-user-score {
-    background-color: #00000045;
+    background-color: #00000045 !important;
     border: #595959 2px solid;
     border-radius: 50px;
     color: #d2d2d2;
@@ -160,7 +160,7 @@
     font-size: 12;
 }
 .user-status-block .form-user-episode {
-    background-color: #bfbfbf00;
+    background-color: #bfbfbf00 !important;
     border: #595959 2px solid;
     border-radius: 50px;
     color: #dbdbdb;
@@ -174,7 +174,7 @@
 }
 
 .user-status-block .btn-user-status-add-list {
-    background-color: #4f74c8;
+    background-color: #4f74c8 !important;
     border: #4f74c8 1px solid;
     border-radius: 50px;
     color: #fff!important;
@@ -210,10 +210,10 @@
 
 
 .detail-characters-list .left-column table:nth-of-type(even), .detail-characters-list .left-right table:nth-of-type(even) {
-    background-color: #0000;
+    background-color: #0000 !important;
 }
 .page-common div.picSurround img {
-    background-color: #fff0;
+    background-color: #fff0 !important;
     border: 1px solid #bebebe00;
 }
 .detail-characters-list .left-column.divider:after {
@@ -221,16 +221,16 @@
 }
 
 .btn-detail-recommendations-view-all {
-    background-color: #0000004f;
+    background-color: #0000004f !important;
     width: 90px;
 }
 
 .page-forum .forum_boardrow1 {
-    background-color: #0000006b;
+    background-color: #0000006b !important;
     border-color: #ebebeb00;
 }
 .page-forum .forum_boardrow2 {
-    background-color: #0000006b;
+    background-color: #0000006b !important;
     border-color: #ebebeb00;
 }
 
@@ -252,7 +252,7 @@
 
 /*  RECOMMENDATIONS  */
 .page-common .bgColor1 {
-    background-color: #00000057;
+    background-color: #00000057 !important;
 }
 
 /*  EPISODE  */
@@ -260,11 +260,11 @@
     background-color: #0000006e!important;
 }
 .episode_list .episode-list-data td {
-    background-color: #0000006e;
+    background-color: #0000006e !important;
     color: #828282;
 }
 .episode_list .episode-list-data:nth-of-type(odd) td {
-    background-color: #0000006e;
+    background-color: #0000006e !important;
 }
 .episode_list td {
     border: #56565600 1px solid!important;
@@ -283,10 +283,10 @@
     border: #d8d8d800 1px solid;
 }
 .page-forum .forum-table-header {
-    background-color: #0009;
+    background-color: #0009 !important;
 }
 .page-common .bgColor2 {
-    background-color: #00000026;
+    background-color: #00000026 !important;
 }
 .page-common .normal_header {
     border-color: #bebebe00;
@@ -295,7 +295,7 @@
 
 div#amzn-native-ad-0 div.amzn-native-products-list div.amzn-native-product {
     border: 1px solid #ccc0;
-    background-color: #00000036;
+    background-color: #00000036 !important;
 }
 .page-common .border_top {
     border-top: #ebebeb00 1px solid;
@@ -313,7 +313,7 @@ div#amzn-native-ad-0 div.amzn-native-products-list div.amzn-native-product {
     font-size: 12;
 }
 .anime-detail-header-stats .stats-block .score:before {
-    background-color: #52525275;
+    background-color: #52525275 !important;
     border-radius: 50px;
     color: #fff;
     width: 50px;
